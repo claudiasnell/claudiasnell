@@ -3,7 +3,7 @@
 I'm working on this. 
 <!--
 **claudiasnell/claudiasnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Eater of Chocolate. Drinker of Coffee. Builder of Web Stuff. Friend of Cats and Dragons.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
